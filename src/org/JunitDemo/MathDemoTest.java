@@ -8,7 +8,7 @@ public class MathDemoTest {
 
 	@Test
 	public void testDiv() {
-		fail("Not yet implemented");
+
 	}
 
 }
